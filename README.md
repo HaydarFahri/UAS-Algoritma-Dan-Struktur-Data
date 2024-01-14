@@ -27,7 +27,7 @@ TREE
 4. jika tidak ada data yang ditemukan maka akan muncul text "data tidak ditemukan pada pohon".
 
 LINKED LIST 
-1.user akan diberikan beberapa pilihan yaitu .
+1. user akan diberikan beberapa pilihan yaitu .
 - tambah depan (untuk menambahkan data depan).
 - tambah belakang (untuk menambahkan data belakang).
 - hapus depan ( untuk menghapus data depan).
