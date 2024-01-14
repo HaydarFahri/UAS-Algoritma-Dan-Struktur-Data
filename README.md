@@ -7,11 +7,11 @@ kelas A
 Angkatan 2023
 
 Nama Anggota :
-Muhammad Emilul Fata       (32602300005)
-Haydar Fahri Alaudin       (32602300010)
-Raffy Akhsan Adi  Muzacky  (32602300016)
-Bintang Bimantara Putra    (32602300019) 
-Rifqi Nu'man Hakim         (32602300039)
+- Muhammad Emilul Fata       (32602300005)
+- Haydar Fahri Alaudin       (32602300010)
+- Raffy Akhsan Adi  Muzacky  (32602300016)
+- Bintang Bimantara Putra    (32602300019) 
+- Rifqi Nu'man Hakim         (32602300039)
 
 BERIKUT ADALAH CARA PENGGUNAAN SETIAP APLIKASI YANG KAMI BUAT:
 
