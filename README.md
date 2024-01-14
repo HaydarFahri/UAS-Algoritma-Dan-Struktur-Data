@@ -16,9 +16,9 @@ Rifqi Nu'man Hakim         (32602300039)
 BERIKUT ADALAH CARA PENGGUNAAN SETIAP APLIKASI YANG KAMI BUAT:
 
 SHORT 
-1.user diminta untuk memasukan jumlah data yang akan di input.
-2.user diminta memasukan angka atau nilai sesuai jumlah data.
-3.data akan diproses untuk menentukan urutan nilai dari yang terkecil (ascending).
+1. user diminta untuk memasukan jumlah data yang akan di input.
+2. user diminta memasukan angka atau nilai sesuai jumlah data.
+3. data akan diproses untuk menentukan urutan nilai dari yang terkecil (ascending).
 
 TREE
 1. kita dapat memasuka data tree pada int main.
