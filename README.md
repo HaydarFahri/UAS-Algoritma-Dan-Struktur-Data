@@ -15,7 +15,7 @@ Nama Anggota :
 
 BERIKUT ADALAH CARA PENGGUNAAN SETIAP APLIKASI YANG KAMI BUAT:
 
-SHORT 
+SORT 
 1. user diminta untuk memasukan jumlah data yang akan di input.
 2. user diminta memasukan angka atau nilai sesuai jumlah data.
 3. data akan diproses untuk menentukan urutan nilai dari yang terkecil (ascending).
