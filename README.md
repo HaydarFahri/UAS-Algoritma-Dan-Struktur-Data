@@ -21,10 +21,10 @@ SORT
 3. data akan diproses untuk menentukan urutan nilai dari yang terkecil (ascending).
 
 TREE
-1. kita dapat memasuka data tree pada int main.
+1. kita dapat memasuka data tree pada int main dengan tujuan untuk mengurutkan data yang dimasukan secara acak.
 2. kemudian data tree akan di tampilkan. 
 3. kemudian kita dapat mencari data pada tree pada int target.
-4. jika tidak ada data yang ditemukan maka akan muncul text "data tidak ditemukan pada pohon".
+4. jika tidak ada data yang ditemukan maka akan muncul text "data tidak ditemukan pada pohon" dan sebaliknya jika data yang dimasukan ternyata ada maka akan muncul text "data ditemukan".
 
 LINKED LIST 
 1. user akan diberikan beberapa pilihan yaitu .
